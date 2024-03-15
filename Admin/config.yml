@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: renayoo/Decaptesting 123
+  repo: renayoo/Decaptesting-123
   branch: main
   base_url: https://decap-oauth-vercel.vercel.app
   auth_endpoint: /api/auth
